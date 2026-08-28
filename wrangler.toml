@@ -1,0 +1,13 @@
+name = "pursuit-of-efficiency"
+main = "worker.js"
+compatibility_date = "2026-08-27"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[vars]
+# Set these in Cloudflare Secrets/Variables; do NOT commit real credentials.
+# BREVO_API_KEY = "set as secret"
+# BREVO_LIST_ID = "set as variable"
+# BREVO_SENDER_EMAIL = "set as variable"
