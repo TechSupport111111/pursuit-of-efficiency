@@ -1,4 +1,4 @@
-# Pursuit of Efficiency — Invite-Only MVP
+# Pursuit of Efficiency - Invite-Only MVP
 
 A Cloudflare Worker + static assets MVP for an invite-only AI efficiency advisor landing page.
 
